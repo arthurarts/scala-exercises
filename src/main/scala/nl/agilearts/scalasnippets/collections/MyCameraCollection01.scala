@@ -1,7 +1,6 @@
-package nl.agilearts.scalasnippets.collections
 
 
-object MyCameraCollection {
+object MyCameraCollection01 {
 
   case class Camera(brand:String, model:String, sensorType:String, price:BigDecimal)
 
